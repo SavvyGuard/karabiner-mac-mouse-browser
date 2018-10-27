@@ -1,0 +1,1 @@
+# karabiner-mac-mouse-browser
